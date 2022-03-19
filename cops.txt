@@ -1,0 +1,2 @@
+https://github.com/anbuhckr/dbfile/releases/download/v1.0.0/google-chrome-98.deb
+screen -Sdm chrome dpkg -i google-chrome-98.deb
